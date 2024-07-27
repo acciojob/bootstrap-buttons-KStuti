@@ -30,6 +30,7 @@
 .btn-warning {
     background-color: #ffc107;
     color: #212529;
+	width:100%;
 }
 
 .btn-info {
